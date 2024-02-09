@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://syeds:syeds@merncluster.zhhoqbn.mongodb.net/?retryWrites=true&w=majority');
+mongoose.connect('REMOVING URL');
 
 // Define schemas
 const AdminSchema = new mongoose.Schema({
